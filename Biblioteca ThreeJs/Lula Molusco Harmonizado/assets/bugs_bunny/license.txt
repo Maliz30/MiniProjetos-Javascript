@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bugs Bunny
+* source:	https://sketchfab.com/3d-models/bugs-bunny-86f5663a737b473291c29f1389868057
+* author:	gaddiellartey2010 (https://sketchfab.com/gaddiellartey2010)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bugs Bunny" (https://sketchfab.com/3d-models/bugs-bunny-86f5663a737b473291c29f1389868057) by gaddiellartey2010 (https://sketchfab.com/gaddiellartey2010) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
